@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m jones martin a.k.a h4x5p4c3 😸, a Security Engineer Intern @ Fourcore and a compsci sophomore at SIST. My interest include low level exploitation, reverse engineering and participating in CTF's with zh3r0. I'm also interested in SecDevOps.
+I’m jones martin a.k.a h4x5p4c3, a Security Engineer Intern @ Fourcore and a compsci sophomore at SIST. 
+My interest include low level exploitation, reverse engineering and participating in CTF's with zh3r0. I'm also interested in SecDevOps.
 Besides customizing tiling window managers, I'm interested in Rustlang 🦀  and Cloud security 🌩.
 
