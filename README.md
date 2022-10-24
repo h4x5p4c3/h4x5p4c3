@@ -1,6 +1,6 @@
-# Heyyy there ✨ 
-
-I’m Jones martin a.k.a h4x5p4c3, a Security Engineer Intern @ [Fourcore](https://fourcore.io/) and a compsci sophomore at [SIST](https://www.sathyabama.ac.in/).<br>
-My interest include low level exploitation, reverse engineering and i participate in CTF's with [zh3r0](https://www.zh3r0.com/). I'm also interested in DevOps.<br>
-Besides breaking my Xmonad config, I'm interested in Rustlang 🦀  and Cloud security 🌩.<br>
-
+# Heyyy there :sparkles:
+<pre>
+I’m Jones Martin a.k.a. h4x5p4c3, a Security Engineer Intern @ <a href="https://fourcore.io/">Fourcore</a> and a Comp Sci sophomore at <a href="https://www.sathyabama.ac.in/">SIST</a>.
+My interests include low-level exploitation, reverse engineering, and DevOps. I participate in CTF's with <a href="https://www.zh3r0.com/">zh3r0</a>. 
+Besides breaking my Xmonad config, I'm interested in Rustlang 🦀 and Cloud security 🌩.
+</pre>
